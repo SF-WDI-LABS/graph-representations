@@ -152,7 +152,7 @@ We often think of graphs as we'd draw them on the page. But they're stored diffe
 </details>
 
 
-### Adjacency Matrix
+### Adjacency Matrix Examples
 
 
 <details><summary>A</summary>
