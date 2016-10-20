@@ -18,7 +18,7 @@ We often think of graphs as we'd draw them on the page. But they're stored diffe
 
 ```
   A: B -> C,
-  B: None,
+  B: C,
   C: B
 ```
 
@@ -28,7 +28,7 @@ We often think of graphs as we'd draw them on the page. But they're stored diffe
 [
 	# A  B  C  
 	[ 0, 1, 1 ], # A
-	[ 0, 0, 0 ], # B
+	[ 0, 0, 1 ], # B
 	[ 0, 1, 0 ], # C
 ]
 ```
