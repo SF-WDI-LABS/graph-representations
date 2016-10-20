@@ -266,3 +266,10 @@ We often think of graphs as we'd draw them on the page. But they're stored diffe
 ]
 ```
 </details>
+
+
+### Take it Farther!
+
+1. Write a function that takes in an adjacency list and a node and finds all children of that node. Repeat with an adjacency matrix. 
+
+1. Write a function that takes in an adjacency list for a tree and finds the root. Repeat with an adjacency matrix. 
